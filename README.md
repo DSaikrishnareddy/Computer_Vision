@@ -14,10 +14,10 @@
 <img src="https://github.com/DSaikrishnareddy/Computer_Vision/blob/main/Min_filter.PNG" >
 
 <h3> Mid Point Filter </h3>
-
-
+<img src="https://github.com/DSaikrishnareddy/Computer_Vision/blob/main/MidPoint_filter.PNG" >
 
 <h3> Alpha-Trimmed Mean Filter </h3>
-    If we delete the d/2 lowest and the d/2 highest intensity values of g(r, c) in the neighborhood the value of d can range from 0 to mn-1 When d=0 the alpha-trimmed
+    If we delete the d/2 lowest and the d/2 highest intensity values of g(r, c) in the neighborhood the value of d can range from 0 to mn-1 When d=0 the alpha-trimmed.
+
   
 
