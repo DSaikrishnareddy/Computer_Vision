@@ -7,6 +7,7 @@
 
    <h4> MAX FILTER </h4>
         This filter is useful for finding the brightest points in an image or for eroding dark regions adjacent to bright areas. Also, because pepper noise has very low values, it   is reduced by this filter as a result of the max selection process in the subimage area Sxy
+<img src="https://github.com/DSaikrishnareddy/Computer_Vision/blob/main/Max_filter.PNG" >
   
   <h4> MIN FILTER </h4>
         The 0th percentile filter is the Min filter which is useful for finding the darkest points in an image or for eroding light regions adjacent to dark areas. Also, it reduces  salt noise as a result of the min operation.
